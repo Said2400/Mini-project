@@ -1,6 +1,6 @@
 import tkinter as tk
 from PIL import Image, ImageTk
-import fitz 
+import fitz #PyMuPDF 
 
 
 pdf_paths = ["DEV101.pdf", "DEV102.pdf", "AEFGT102.pdf", "AA101.pdf", "EIT101.pdf",
